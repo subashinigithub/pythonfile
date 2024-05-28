@@ -1,0 +1,102 @@
+""" import turtle
+t=turtle.Turtle()
+t.penup()
+t.setpos(40,40)
+t.pendown()
+t.pensize(10)
+t.pencolor("pink")
+t.forward(100)
+t.backward(100)
+t.right(90)
+t.forward(100)
+t.left(90)
+t.forward(100)
+t.backward(100)
+t.right(90)
+t.forward(100)
+t.left(90)
+t.forward(100)
+turtle.done() """
+
+""" import turtle
+s=turtle.Turtle()
+s.pensize(10)
+s.circle(100)
+s.seth(25)
+s.circle(100)
+s.seth(45)
+s.circle(100)
+s.seth(65)
+s.circle(100)
+s.seth(85)
+s.circle(100)
+s.seth(105)
+s.circle(100)
+s.seth(125)
+s.circle(100)
+s.seth(145)
+s.circle(100)
+s.seth(165)
+s.circle(100)
+s.seth(185)
+s.circle(100)
+s.seth(205)
+s.circle(100)
+s.seth(225)
+s.circle(100)
+s.seth(245)
+s.circle(100)
+s.seth(265)
+s.circle(100)
+s.seth(285)
+s.circle(100)
+s.seth(305)
+s.circle(100)
+s.seth(325)
+s.circle(100)
+s.seth(345)
+s.circle(100)
+turtle.done() """
+#s letter
+""" import turtle
+s=turtle.Turtle()
+for x in range(300):
+    s.forward(1)
+    s.left(1)
+s.forward(170)
+for x in range(300):
+    s.forward(1)
+    s.right(1)
+turtle.done() """
+#k letter
+""" import turtle
+s=turtle.Turtle()
+s.penup()
+s.setpos(40,40)
+s.pendown()
+s.pensize(10)
+s.pencolor("red")
+s.right(100)
+s.forward(160)
+s.backward(80)
+s.left(120)
+s.forward(100)
+s.backward(100)
+s.right(80)
+s.forward(100)
+turtle.done() """
+import turtle
+s=turtle.Turtle()
+s.right(130)
+for x in range(250):
+    s.forward(1)
+    s.right(1)
+    s.forward(1)
+s.penup()
+s.home()
+s.pendown()
+
+""" for x in range(100):
+    s.forward(1) """
+
+turtle.down()

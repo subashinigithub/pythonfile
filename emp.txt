@@ -1,0 +1,10 @@
+
+sk	23	56667	dev	msc	<_io.TextIOWrapper name='emp.txt' mode='x' encoding='cp1252'>	20000
+sk	23	45555	dev	bsc	90	20000	
+suba	23	1234	pythondev	msc	98	32000	
+ks	23	2345	dev	msc	90	4000	
+karthi	24	321	testing	mca	99	40000	
+gs	24	213	dm	mca	98	45000	
+suba	23	1234	dev	msc	90	4000	
+karthi	24	321	testing	mca	99	50000	
+karthi	24	321	dev	sc	99	2000	
